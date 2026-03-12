@@ -14,8 +14,7 @@ Rethink. Redesign. Redefine.
 
 ### Mono Client <img src="https://img.shields.io/badge/Featured-000000?style=flat-square"/>
 
-The Minecraft client focused on smooth performance and PvP.  
-Free forever.
+The Minecraft client focused on smooth performance and PvP. Free forever.
 
 Available on  
 • [Legacy Versions (1.8.9)](https://github.com/Mono-Innovations/mono-legacy)  
