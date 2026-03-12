@@ -1,43 +1,43 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mono-Innovations/.github/main/profile/logo.png" width="110"/>
+<img src="https://github.com/monoinnovations/.github/blob/main/profile/logo.webp" width="110"/>
 
 # Mono Innovations
 
-Mono Client — Minecraft PvP client for **1.8.9 and higher versions**
-
-<br>
-
-<img src="https://img.shields.io/badge/Minecraft-1.8.9%2B-black?style=flat-square&logo=minecraft&logoColor=white">
-<img src="https://img.shields.io/badge/Built For-PvP-black?style=flat-square">
-<img src="https://img.shields.io/badge/Versions-1.8.9%20%7C%20Higher-black?style=flat-square">
-<img src="https://img.shields.io/badge/Status-Wating For You-black?style=flat-square">
+Rethink. Redesign. Redefine.
 
 </div>
 
 ---
 
-## Mono Client
+## Our Projects
 
-Mono Client is a custom Minecraft PvP client focused on:
+### Mono Client <img src="https://img.shields.io/badge/Featured-000000?style=flat-square"/>
 
-- **1.8.9 PvP**
-- support for newer Minecraft versions
-- clean interface
-- lightweight performance
-- configurable HUD
+The Minecraft client focused on smooth performance and PvP.  
+Free forever.
+
+Available on  
+• [Legacy Versions (1.8.9)](https://github.com/Mono-Innovations/mono-legacy)  
+• [Modern Versions (1.20+)](https://github.com/Mono-Innovations/mono-modern)
 
 ---
 
-## Projects
+### Other Projects
 
 <div align="center">
 
-[![Mono Legacy](https://github-readme-stats.vercel.app/api/pin/?username=monoinnovations&repo=Mono-Legacy&theme=transparent&hide_border=true)](https://github.com/Mono-Innovations/mono-client)
+<a href="https://github.com/Mono-Innovations/Mono-Legacy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mono-Innovations&repo=Mono-Legacy&theme=transparent&hide_border=true"/>
+</a>
 
-[![Mono Modern](https://github-readme-stats.vercel.app/api/pin/?username=monoinnovations&repo=Mono-Modern&theme=transparent&hide_border=true)](https://github.com/Mono-Innovations/mono-client)
+<a href="https://github.com/Mono-Innovations/Mono-Modern">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mono-Innovations&repo=Mono-Modern&theme=transparent&hide_border=true"/>
+</a>
 
-[![Mono Launcher](https://github-readme-stats.vercel.app/api/pin/?username=monoinnovations&repo=Mono-Launcher&theme=transparent&hide_border=true)](https://github.com/Mono-Innovations/mono-launcher)
+<a href="https://github.com/Mono-Innovations/Mono-Launcher">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mono-Innovations&repo=Mono-Launcher&theme=transparent&hide_border=true"/>
+</a>
 
 </div>
 
@@ -45,6 +45,8 @@ Mono Client is a custom Minecraft PvP client focused on:
 
 <div align="center">
 
-Mono Client — Minecraft PvP Client
+**Mono Innovations 2026**
+
+*Since 2022 — our vision remains unchanged.*
 
 </div>
